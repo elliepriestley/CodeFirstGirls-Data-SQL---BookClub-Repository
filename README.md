@@ -2,7 +2,7 @@
 
 # MySQL BookClub Repository 📚
 
-## About 
+## 💬 About 
 A Solo Project created during my CodeFirstGirls: Introduction to Data and SQL. This was an eight week course, in which I learned the fundamentals of SQL in Sep-Nov 2022.
 
 This project is a database to track the activity of a growing Bookclub, and includes user-friendly features designed to be useful and insightful for its members.
@@ -11,16 +11,18 @@ It includes tables detailing the Members, Author information, details about each
 
 I challenged myself to complete all of the advanced options within the project brief.
 
-## Tech Stack
+A summary can be found in the [Project Presentation](https://github.com/elliepriestley/MySQL_Bookclub_Repository/Project_Presentation)
+
+## 🚀 Tech Stack
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
-## Features
+## ⚡️ Features
 
 - Relational database, with useful joins and views to query
 - Graded star rating system
 - Reoccurring event to plan the next book club date
 
-## Structure 
+## 📦 Structure 
 
 <img alt="EER Diagram of the relational Bookclub Database" src="./EER_Diagram/EER_Diagram.png"> 
 
