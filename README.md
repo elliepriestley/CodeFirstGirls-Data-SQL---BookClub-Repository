@@ -11,7 +11,7 @@ It includes tables detailing the Members, Author information, details about each
 
 I challenged myself to complete all of the advanced options within the project brief.
 
-A summary can be found in the [Project Presentation](https://github.com/elliepriestley/MySQL_Bookclub_Repository/Project_Presentation)
+A summary can be found in the [Project Presentation](https://github.com/elliepriestley/MySQL_Bookclub_Repository/blob/main/Project_Presentation/Presentation_SQLDataProject_08.11.22.pdf)
 
 ## 🚀 Tech Stack
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
