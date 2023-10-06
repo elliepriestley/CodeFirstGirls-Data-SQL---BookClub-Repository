@@ -11,6 +11,9 @@ It includes tables detailing the Members, Author information, details about each
 
 A summary can be found in the [Project Presentation](https://github.com/elliepriestley/MySQL_Bookclub_Repository/blob/main/Project_Presentation/Presentation_SQLDataProject_08.11.22.pdf)
 
+## 🚀 Tech Stack
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+
 ## 🏁 Core and Advanced Requirements
 
 I challenged myself to complete all of the advanced options within the project brief, as well as the core requirements.
@@ -30,8 +33,6 @@ I challenged myself to complete all of the advanced options within the project b
 - [x] Create a view that uses at least 3-4 base tables; prepare and demonstrate a query that uses the view to produce a logically arranged result set for analysis.
 - [x] Prepare an example query with group by and having to demonstrate how to extract data from your DB for analysis
 
-## 🚀 Tech Stack
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ## ⚡️ Features
 
